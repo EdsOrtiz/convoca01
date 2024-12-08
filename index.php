@@ -1,8 +1,3 @@
 <?php
-    echo "Hi world!!!";
-    echo "Prueba de carga";
-
-    echo "<img src='https://images.app.goo.gl/SViztJPZ4kqvXXBA8' width='200px' alt='' />";
-
-    echo "Esto no quiere jalar";
+    header("Location: ./modules/main.php");
     
